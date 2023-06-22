@@ -1,0 +1,1 @@
+The repository was created for the purpose of experimenting with the Jest test library while learning corresponding [Hexlet course](https://ru.hexlet.io/courses/js-testing).
